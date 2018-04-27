@@ -1,11 +1,36 @@
-<li>Travelling and Exploring places
-<li>Reading Adventure Books</li>
-</ul>
-<p><a href="test.html">Test Paper</a>
+h1{
 
-</body>
-</html>
+  font-family: verdana;
+  color:blue;
+}
 
-Github directory:
-test.html
-test.css
+ h2{
+  font-family: verdana;
+  color:blue;
+}
+
+p{
+ font-family: verdana;
+}
+
+body {
+    background-color: #33ccff;
+}
+18Y1F VERA QUEK ZI QI:  h1{
+
+  font-family: verdana;
+  color:blue;
+}
+
+ h2{
+  font-family: verdana;
+  color:blue;
+}
+
+p{
+ font-family: verdana;
+}
+
+body {
+    background-color: #33ccff;
+}
